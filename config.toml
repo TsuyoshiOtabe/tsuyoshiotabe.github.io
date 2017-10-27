@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://tsuyoshiotabe.github.io/"
 languageCode = "en-us"
 title = "Hugo_test"
 theme = "ananke"
+canonifyurls = true
